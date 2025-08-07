@@ -22,6 +22,6 @@
       "filename": "4.md", 
       "title": "使用Vite+Typescript+React构建Github Pages",
       "description": "Use framework to build gh-pages"
-    },
+    }
   ]
 }
